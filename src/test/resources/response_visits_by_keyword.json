@@ -1,0 +1,78 @@
+{"report": {
+    "type": "ranked",
+    "elements": [
+        {
+            "id": "evar1",
+            "name": "Internal Search Terms (v1)"
+        }
+    ],
+    "reportSuite": {
+        "id": "targetcomprod",
+        "name": "Target.com"
+    },
+    "period": "Sat. 28 Jun. 2014 - Wed.  2 Jul. 2014",
+    "metrics": [
+        {
+            "id": "visits",
+            "name": "Visits",
+            "type": "number",
+            "decimals": 0,
+            "latency": 0,
+            "current": false
+        }
+    ],
+    "data": [
+        {
+            "name": "::unspecified::",
+            "url": "",
+            "counts": ["9978925"]
+        },
+        {
+            "name": "non-search",
+            "url": "",
+            "counts": ["1676979"]
+        },
+        {
+            "name": "::uniques_exceeded::",
+            "url": "",
+            "counts": ["519167"]
+        },
+        {
+            "name": "refinement:",
+            "url": "",
+            "counts": ["277132"]
+        },
+        {
+            "name": "home",
+            "url": "",
+            "counts": ["244496"]
+        },
+        {
+            "name": "women",
+            "url": "",
+            "counts": ["195914"]
+        },
+        {
+            "name": "furniture",
+            "url": "",
+            "counts": ["135340"]
+        },
+        {
+            "name": "baby",
+            "url": "",
+            "counts": ["112565"]
+        },
+        {
+            "name": "clearance",
+            "url": "",
+            "counts": ["91540"]
+        },
+        {
+            "name": "patio & garden",
+            "url": "",
+            "counts": ["80208"]
+        }
+    ],
+    "totals": ["10703668"],
+    "version": "1.4.14.5"
+}, "waitSeconds": "1.306", "runSeconds": "4.711"}
